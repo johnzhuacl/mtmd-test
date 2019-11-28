@@ -7,7 +7,6 @@
 #include <tchar.h>
 #include <time.h>
 #include <windows.h>
-#include "AclDateConvert.h"
 #include <mbctype.h>
 
 void setLocaleToSystemDefault()
